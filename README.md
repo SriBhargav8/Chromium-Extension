@@ -1,4 +1,5 @@
-#How To Install 
+ # How-To-Install 
+
 1) Install the extension download the repository into local Environment. 
 2) Type(Chrome://extension) and press enter 
 3) Make sure you had turned on developer tools.
