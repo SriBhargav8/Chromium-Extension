@@ -1,0 +1,43 @@
+.content{
+  background-color:#007580;
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+}
+.content {
+  width: 300px;
+}
+
+.content .header {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+
+.content .data .type b {
+  font-weight: 600;
+  font-size: 1.5rem;
+  padding-left: 5px;
+}
+
+.content .data .type .param {
+  display: flex;
+  padding: 2px auto;
+  align-items: center;
+}
+
+.content .data .type .param:nth-child(odd) {
+  background: #007580;
+}
+.title,
+.value {
+  padding-left: 5px;
+}
+
+.title {
+  border-right: 1px solid;
+  width: 120px;
+}
+
+.value {
+  width: 180px;
+}
